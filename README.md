@@ -1,11 +1,10 @@
-# Ruta-de-Entrenamiento-CISCO-CCNPv8-Enterprise-Core-Networking---ENCOR
+# Ruta-de-Entrenamiento-CISCO-CCNPv8-Enterprise-Core-Networking---ENCOR  
 
-
-# Justificación
+## Justificación
 Las corporaciones dependen mucho de la operación correcta de sus infraestructuras de redes. Este curso de CCNA describe las arquitecturas y las consideraciones relacionadas con el diseño, la protección, el funcionamiento y la solución de problemas de las redes empresariales. Abarca las tecnologías de red de área amplia (WAN) y los mecanismos de calidad de servicio (QoS) utilizados para el acceso remoto seguro, junto con la introducción de conceptos de redes, virtualización y automatización definidos por software que admiten la digitalización de redes.
-El Grupo Gestión de Instructores - Escuela Nacional de Instructores “Rodolfo Martínez Tono” GGI-ENI1 de la Dirección de Formación Profesional en desarrollo de sus objetivos y propósitos, dirigidos a la permanente actualización y desarrollo de competencias que implican un avance en las capacidades y habilidades técnicas de los instructores en la institución, abre la convocatoria para la conformación del grupo “Ruta de Entrenamiento CISCO CCNP Enterprise: Core Networking - ENCOR”
+El Grupo Gestión de Instructores - Escuela Nacional de Instructores “Rodolfo Martínez Tono” GGI-ENI1 de la Dirección de Formación Profesional en desarrollo de sus objetivos y propósitos, dirigidos a la permanente actualización y desarrollo de competencias que implican un avance en las capacidades y habilidades técnicas de los instructores en la institución, abre la convocatoria para la conformación del grupo “Ruta de Entrenamiento CISCO CCNP Enterprise: Core Networking - ENCOR”  
 
-# Temas formación virtual sincrónica asistida por TICs
+## Temas formación virtual sincrónica asistida por TICs
 - Chapter 1 - Packet Forwarding
 - Chapter 2 - Spanning Tree Protocol: 1.1.2 Lab - Implement Inter-VLAN Routing, 2.1.2 Lab - STP Topology Changes and RSTP
 - Chapter 3 - Advanced STP Tuning: 3.1.2 Lab - Implement Advanced STP
@@ -21,8 +20,9 @@ El Grupo Gestión de Instructores - Escuela Nacional de Instructores “Rodolfo 
 - Chapter 11 - BGP
 - Chapter 12 -Advanced BGP: 11.1.2 Lab - Implement eBGP for IPv4, 11.1.3 Lab - Implement MP-BGP
 - Chapters 8 - 10: OSPF Exam
-- Chapters 11 - 12: BGP Exam
-# Temas formación presencial
+- Chapters 11 - 12: BGP Exam  \
+<br/> Link para acceder a los recursos [Archivos de simulación GNS3 y Packet Tracert](https://github.com/jflorezd6/Ruta-de-Entrenamiento-CISCO-CCNPv8-Enterprise-Core-Networking---ENCOR/tree/main/Labs%20Presenciales).
+## Temas formación presencial
 - Chapter 13 - Multicast
 - Chapter 14 - Quality of Service (QoS)
 - Chapters 13 - 14: Multicast and QoS Exam
@@ -42,5 +42,6 @@ El Grupo Gestión de Instructores - Escuela Nacional de Instructores “Rodolfo 
 - Course Feedback
 - Exámenes de recuperación
 - Certification Practice Exam
-- Final Exam
+- Final Exam  \
+<br/> Link para acceder a los recursos [Archivos de simulación GNS3 y Packet Tracert](https://github.com/jflorezd6/Ruta-de-Entrenamiento-CISCO-CCNPv8-Enterprise-Core-Networking---ENCOR/tree/main/Labs%20Virtuales).
 
